@@ -1,0 +1,10 @@
+First Dataset: Gutenberg eBook of Metamorphosis
+Author: Franz Kafka
+Translator: David Wyllie
+Language: English
+Url : https://www.gutenberg.org/cache/epub/5200/pg5200.txt
+
+Second Dataset: Gutenberg eBook of The Adventures of Sherlock Holmes
+Author: Arthur Conan Doyle
+Language: English
+Url : https://www.gutenberg.org/cache/epub/1661/pg1661-images.html
